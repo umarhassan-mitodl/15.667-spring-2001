@@ -97,7 +97,7 @@ _Next Week:_ Please do the reading for Session 7, before you write your Perceive
 *   Drafting – and Perhaps Sending – A Private Letter to a Person Who has Harassed or Offended You ({{% resource_link 3dc0925b-f7e6-8ee7-2153-d6a611eefd34 "PDF" %}})
 *   _Joe and Josephine at Biochemix_ ({{% resource_link bf60011f-a1f3-9fd4-7be3-bf61db22de2a "PDF" %}})
 
-Please try hard to follow the instructions, even if you think they are too rigid? 8 Your Employer's Dispute Resolution and Complaint Handling System _Write:_ In your journal and, if possible, a separate page. If you read or skimmed the {{% resource_link "d720bbe7-17d5-43e2-93e5-ce86cbb847ad" "_MIT Guide to Dealing with Harassment_" %}} consider writing a paragraph of critique or commentary. Read the questions posed for last week and answer them?  
+Please try hard to follow the instructions, even if you think they are too rigid? 8 Your Employer's Dispute Resolution and Complaint Handling System _Write:_ In your journal and, if possible, a separate page. If you read or skimmed the [_MIT Guide to Dealing with Harassment_](http://web.mit.edu/communications/hg/) consider writing a paragraph of critique or commentary. Read the questions posed for last week and answer them?  
   
 _Preparing for Next Week:_ Read the instructions (in the Class Notes) for Little Paper #3, "Seeing Both Sides of a Dispute", due on Session 9.  
   

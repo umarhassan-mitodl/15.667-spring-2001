@@ -161,7 +161,7 @@ and Rowe, Mary. _Helping People Help Themselves: An Option for Complaint Handler
   
 These readings discuss how conflicts begin and develop and how they can be handled at the lowest possible level. _The Rowe paper is essential for the second Perceived Injurious Experience (PIE) Little Paper_. NB: usually half the class hates the Felstiner, Abel & Sarat article. If you are in that half, please skim it anyway? It is a well-known classic and the article may grow on you if you become interested in dispute prevention at home or at work or if you find yourself dealing with difficult conflicts.  
   
-If as a manager you will be handling personnel complaints of any kind, skim the {{% resource_link "d720bbe7-17d5-43e2-93e5-ce86cbb847ad" "_MIT_ _Guide to Dealing with Harassment_" %}} which describes a _systems approach_ to complaint-handling with respect to one broad class of workplace issues. See especially the "Quick Guide," chapter 3.
+If as a manager you will be handling personnel complaints of any kind, skim the [_MIT_ _Guide to Dealing with Harassment_](http://web.mit.edu/communications/hg/) which describes a _systems approach_ to complaint-handling with respect to one broad class of workplace issues. See especially the "Quick Guide," chapter 3.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +177,7 @@ Your Employer's Dispute Resolution and Complaint Handling System
   
 and Rowe, Mary, and Corinne Bendersky. _Workplace Justice, Zero Tolerance and Zero Barriers: Getting People to Come Forward in Conflict Management Systems_, in _Negotiations and Change, from the Workplace to Society,_ edited by Thomas Kochan and Richard Locke, Cornell University Press, 2002.  
   
-If you did not have a chance to read the {{% resource_link "d720bbe7-17d5-43e2-93e5-ce86cbb847ad" "_MIT_ _Guide to Dealing with Harassment_" %}}, consider skimming at least chapter 3 for today. Contemporary best practice suggests that employers should not only offer conflict resolution options, but build integrated dispute resolution systems. (Was there an integrated system at the place you worked before?) If you will be working in an arena where there are "zero tolerance" policies for illegal behavior, the Rowe article discusses one reason why zero tolerance policies are problematic unless embedded in an integrated system.
+If you did not have a chance to read the [_MIT_ _Guide to Dealing with Harassment_](http://web.mit.edu/communications/hg/), consider skimming at least chapter 3 for today. Contemporary best practice suggests that employers should not only offer conflict resolution options, but build integrated dispute resolution systems. (Was there an integrated system at the place you worked before?) If you will be working in an arena where there are "zero tolerance" policies for illegal behavior, the Rowe article discusses one reason why zero tolerance policies are problematic unless embedded in an integrated system.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +222,7 @@ Investigation, Arbitration and Exceptionally Difficult People
 {{< tdopen >}}
 **Read:** Lewicki, chapter 9, and the Halliburton _Dispute Resolution Program_. These readings illuminate dealing with difficult situations, and third party intervention. The Halliburton program is a benchmark example of an integrated system with the option of outside arbitration. It is now seen as best practice – with one big shortcoming in my view – namely, "imposed" arbitration. (Are you willing to sign away your ability to sue your employer as a condition of employment?)  
   
-**Read:** Fein, Robert A., Bryan Vossekuil, and Gwen A. Holden, _Threat Assessment: An Approach to Prevent Targeted Violence_, _National Institute of Justice: Research in Action,_ September 1995, pp. 1-7 (taking a systems approach to targeted violence) as preparation for the evening presentation. This article is also available at the {{% resource_link "eb04adc1-4412-4f97-88f8-dd3e19457316" "U.S. Secret Service" %}} web site.  
+**Read:** Fein, Robert A., Bryan Vossekuil, and Gwen A. Holden, _Threat Assessment: An Approach to Prevent Targeted Violence_, _National Institute of Justice: Research in Action,_ September 1995, pp. 1-7 (taking a systems approach to targeted violence) as preparation for the evening presentation. This article is also available at the [U.S. Secret Service](http://www.secretservice.gov/) web site.  
   
 **Cases:** _Certified Public Accountants, Inc._ (theft); Discussion of cases distributed in class (drugs, whistleblowers, and a convicted employee).
 {{< tdclose >}}
